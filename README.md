@@ -1,2 +1,2 @@
 # ReactNative_FormMik
-FormMik Library React Native
+Set Rules for User Input (Email, Password...)
